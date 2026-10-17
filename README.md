@@ -1,8 +1,6 @@
 # Festiva - Gestor de Festival Musical
 
-**Estudiante:** Angelo Vaccariello Gatgens
-**Curso:** SOFT-30 Programación Web 1, sección SVC0
-**Universidad:** CENFOTEC
+## Descripción
 
 Aplicación de una sola página hecha con React, TypeScript, Vite y Tailwind CSS
 para registrar, visualizar, marcar como favoritas, eliminar y consultar las
